@@ -2,3 +2,7 @@
 a=1
 b=2
 c=a+b
+
+//changes for story-131
+
+intj=10
